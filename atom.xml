@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blackd000g.github.io</id>
     <title>Blackdooog</title>
-    <updated>2020-07-01T01:27:54.261Z</updated>
+    <updated>2020-07-01T01:31:46.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blackd000g.github.io"/>
     <link rel="self" href="https://blackd000g.github.io/atom.xml"/>
@@ -11,12 +11,71 @@
     <icon>https://blackd000g.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Blackdooog</rights>
     <entry>
-        <title type="html"><![CDATA[11212]]></title>
+        <title type="html"><![CDATA[如何改善现有的服务体验]]></title>
         <id>https://blackd000g.github.io/post/11212/</id>
         <link href="https://blackd000g.github.io/post/11212/">
         </link>
         <updated>2020-07-01T01:27:12.000Z</updated>
-        <content type="html"><![CDATA[<p>12121</p>
+        <content type="html"><![CDATA[<p>来源：How to improve an existing service experience?<br>
+When you are working on an already established service and you want to renovate it<br>
+https://servicedesigntools.org/tutorials/how-to-improve-an-existing-service-experience</p>
+<ol>
+<li>
+<p>仔细研究现有的流程<br>
+分析现有服务提供的体验，当涉及到行为需求，触点和潜在痛点的时候拆解用户旅程的每一步。建立现有的用户旅程图，以用来抓住整体的服务体验，并高亮关键方面，尤其是需要通过重新设计解决问题的地方，促进整个团队认识上的统一。对于复杂的服务来说，建立一个服务蓝图来分析会很有帮助，以此来抓住关键方面，包括流程本身，以及不同触点之间的关系。<br>
+TIPS：亲身体验会有助于揭露细节，并确认分析中的每一步。<br>
+MIAN TOOL USED: 旅程地图<br>
+用户旅程地图是一种系统性的，按步骤来描述用户是如何与服务进行交互的表现形式。是从用户的视角来展现流程的，描述每个交互阶段发生了什么，涉及到哪些触点，可能会遇哪些困惑以及障碍。 用户旅程地图通常会与表示在交互过程中积极/消极情绪体验程度的图层整合到一起。<br>
+USE IT TO：<br>
+绘制整个用户旅程，表达流程的同时，展示痛点和情绪变化。<br>
+REMEMBER TO：<br>
+核心体验之前和之后发生了什么也要包含进去，即使是和其他服务或是提供者产生了交互。</p>
+</li>
+<li>
+<p>分析服务是如何建构的<br>
+体验和流程只是服务本身的一部分，另一个需要考虑的方面是，现有服务中，如何在组件和动态的基础上构建底层系统。综合的了解系统能够发现那些被忽视的以及重复的，可能是白费力气或者浪费资源的地方。建立一个系统地图来向团队明确这些方面，并讨论未开发利用的优化机会。<br>
+TIPS：联系在循环中的参与者来构建一个综合的表达，明确亢余的部分和存在的不足。<br>
+MIAN TOOL USED: System Map<br>
+A system map is a synthetic representation that shows in one single frame all the different actors involved in a service delivery, and their mutual links (e.g. flows of materials, energy, information, money, documents, etc.). The system map clarifies how the different service components and roles are connected one to the other, highlighting the values they exchange.<br>
+USE IT TO：<br>
+理解服务动态，发现缺陷和机会。<br>
+REMEMBER TO：<br>
+将构成要素置于循环中，在每次交换中都会存在输入和输出。</p>
+</li>
+<li>
+<p>制定详细具体的目标引导愿景<br>
+在构思之前，花一些时间反思系统和体验的分析结果，并确定你想要通过重新设计达到的关键目标是怎样的。目标可以是横向的（例如“优化整个用户旅程中的信息流”）或者可以是非常具体的（例如“引导：从填表到热情的欢迎”）。在了解可能的限制和阻碍之后，为了设定正确的方式，对现有状况的详细理解对目标的设定来说是非常重要的。<br>
+TIPS：期望的体验也可以被定义为目标用户旅程，为此针对体验的每一步，设定箱子具体的目标。<br>
+MIAN TOOL USED: Experience Principles<br>
+Experience principles are inspiring values that help create a shared experience vision within an organization, by applying then consistently across several projects and initiatives. They are based on research, and incorporate insights about what users expect from the relationship with a specific organization or service.<br>
+USE IT TO：<br>
+引导不同的团队追寻同样的用户体验目标。<br>
+REMEMBER TO：<br>
+创造有利的声明解释原则，并利用视觉化的方法使之容易被记住。</p>
+</li>
+<li>
+<p>提出足够多的想法和解决办法<br>
+相处可能可以解决所有在用户旅程中已被识别出的痛点或是系统中的缺陷，同时抓住值得注意的机会点。这些想法可以是具体功能上的细微优化，也可以是影响整个服务体系的宽泛概念。在这个阶段，不要自我设限与创意的数量或者是可行性。抓住每一个想法，与团队的其他成员共享。<br>
+TIPS：发散思维是一种脑暴方式，在小组讨论之前，团队中的每一个人都可以写下他们脑中的想法。<br>
+MIAN TOOL USED: User Stories<br>
+User stories are a technique coming from the Agile methodology, used to describe the requirements of a digital service from a user perspective (in contrast with product-based requirement documents). The user stories detail all the elements and interactions that enable the envisioned user experience with a mobile app or website, and connect the work of the design team (developing interaction flows and UI components) with the process of back-end and front-end development, enabling a better integrated workflow in sprints (rather than a water-fall development process).<br>
+USE IT TO：<br>
+将电子服务的设计和开发联系起来，传递高品质的体验。<br>
+REMEMBER TO：<br>
+为了更好的监控流程并对每个功能进行质量检查，需要将用户的操作分解为微交互。</p>
+</li>
+<li>
+<p>识别出最有前景的想法<br>
+收集所有的脑暴想法，并为下一步制定一个行动计划。如果项目简单，将所有想法变成设计方案并逐步发展是很容易的。另一些情况中，你可能最终有50甚至更多想法能够革新现有的服务体验，但很显然是不可能一一实现的，所以要从哪里开始？建立一个评估体系来定义一些评价标准，以此来分析每个想法（例如，对用户的价值，开发成本，独特性等等）并且根据标准打分。这样可以在很有前景的想法中，区分出哪些是容易建立并带来高价值的（可能第一个被开发），哪些是极其简单的但能够非常好的改进服务中具体的部分但不用做出巨大的改变，以及哪些是更复杂的革新，需要花费更多的时间和投资但能够对服务产生长远的重大的影响。<br>
+TIPS：通常来说，坐标轴是概念对用户或组织的价值，以及实施的可行性或复杂性，不过这些可以根据具体的情境进行变化。<br>
+MIAN TOOL USED: Evaluation Matrix<br>
+The evaluation matrix allows to weight different ideas, rating them based on a set of defined criteria, in order to identify the most promising ones. A common set of criteria includes the level of complexity related to idea implementation, and level of value they will bring to the user and to the organization.<br>
+USE IT TO：<br>
+对全部的可能方案有一个了解，仔细选择实施哪些。<br>
+REMEMBER TO：<br>
+找出具有最大影响力并且唾手可得的想法。</p>
+</li>
+</ol>
 ]]></content>
     </entry>
     <entry>
