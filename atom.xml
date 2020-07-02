@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blackd000g.github.io</id>
     <title>Blackdooog</title>
-    <updated>2020-07-02T14:05:42.900Z</updated>
+    <updated>2020-07-02T14:14:29.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blackd000g.github.io"/>
     <link rel="self" href="https://blackd000g.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://blackd000g.github.io/images/avatar.png</logo>
     <icon>https://blackd000g.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Blackdooog</rights>
+    <entry>
+        <title type="html"><![CDATA[如何发现有前景的机会？]]></title>
+        <id>https://blackd000g.github.io/post/ru-he-fa-xian-you-qian-jing-de-ji-hui/</id>
+        <link href="https://blackd000g.github.io/post/ru-he-fa-xian-you-qian-jing-de-ji-hui/">
+        </link>
+        <updated>2020-07-02T14:12:21.000Z</updated>
+        <content type="html"><![CDATA[<p>原文来源：How to find new promising opportunities?<br>
+https://servicedesigntools.org/tutorials/how-to-find-new-promising-opportunities</p>
+<ol>
+<li>探索品牌新领域<br>
+和你的团队一起，围绕指定的用户的需求和行为提出假设，并思考可以使用哪些方法能够满足这些需求。结合对细分市场已有的了解与个人直觉，将提出的设想转变成假设和一些初步的想法，以便在接下来的研究阶段进行验证。<br>
+主要应用工具：HYPOTHESIS GENERATION<br>
+TIPS：例如 ”如果…”和“假设这样…”的表述可以帮助提出假设</li>
+<li>认真准备<br>
+制定某个领域内的研究计划，更深入了解目标户以及应对挑战。提炼初步假设，制定一个计划定义目标，以及运用一系列方法论服务你们的研究。制定招募策略发现合适的参与者，选取关键地点和时间节点。一旦做完这些，你就会了解进行实地调查的所有流程细节。<br>
+主要应用工具：research plan<br>
+Define how to conduct a research activity by writing the protocol before starting.<br>
+TIPS：招募策略要有创造性，让有高度积极的用户参与进来，利用社交关系或线上追踪会有帮助。</li>
+<li>将假设转变成问题<br>
+无论如何，当你进行一个旨在理解用户的价值观、已满足和未满足的需求，知之甚少的行为等的研究的时候，深度访谈都是最精准的方法。制定一个详细的访谈指导，从而构建一个访谈框架，然后将每个访谈对象的回答归档，不断的加深理解。<br>
+主要应用工具：interview guide<br>
+TIPS：当处理非常抽象或者敏感的话题的时候，实际操作能够更好的帮助参与者融入其中。</li>
+<li>根据用户类型分类洞察<br>
+研究完成之后，列出所有的洞察和遇到的行为中的关键差异。可以根据特征的相似性，使用用户画像来归类参与者，阐述其故事线，详细地描述他们的行为方式，需求，问题和用户旅程中的机会点。<br>
+主要应用工具：persona<br>
+TIPS：建立4x4的图展示不同的用户画像，并通过高亮主要区别的方式解释。</li>
+<li>制定最佳策略继续推进<br>
+将需求和行为转变为设计机会，并开始收集针对新服务和功能的想法。在进一步发展想法或某个具体机会点之前，先建立一个包含所有潜在机会点的图，概览所有有实际意义的方向，并反映到总体策略上。<br>
+主要应用工具：offering map<br>
+Describe what benefits a service can bring to its users<br>
+TIPS：可以从打印一张巨大的海报来展示机会点开始，在每个机会点下提出新想法。<br>
+比较常规的做法，最后运用用户画像和offering map作为工具引导提出新的机会点。</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何改善现有的服务体验(翻译)]]></title>
         <id>https://blackd000g.github.io/post/11212/</id>
