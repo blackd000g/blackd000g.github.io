@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blackd000g.github.io</id>
     <title>Blackdooog</title>
-    <updated>2020-07-02T13:49:51.316Z</updated>
+    <updated>2020-07-02T14:05:42.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blackd000g.github.io"/>
     <link rel="self" href="https://blackd000g.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>who am I</subtitle>
     <logo>https://blackd000g.github.io/images/avatar.png</logo>
     <icon>https://blackd000g.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Blackdooog</rights>
